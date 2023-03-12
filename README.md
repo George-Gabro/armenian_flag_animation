@@ -2,4 +2,4 @@
 Armenian flag with animation using html css
 
 ## preview
-to preview the page u can visit `https://htmlpreview.github.io/?https://github.com/spookyhub/armenian_flag_animation/blob/main/index.html`
+To preview the page u can visit [github html preview](https://htmlpreview.github.io/?https://github.com/spookyhub/armenian_flag_animation/blob/main/index.html)
